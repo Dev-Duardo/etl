@@ -1,2 +1,2 @@
 # etl
-proejto simles de etl
+projeto simples de ETL.
