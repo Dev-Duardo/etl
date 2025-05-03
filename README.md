@@ -19,10 +19,6 @@ DB_NAME=etl_s
 pip install -r requirements.txt
 ```
 
-3. Execute o script principal:
-
-```
-python main.py
-```
+3. Execute o notebook:
 
 
